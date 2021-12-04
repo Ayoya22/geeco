@@ -1,43 +1,21 @@
-Beauty Salon Bootstrap HTML5 Template is a flat good looking modern and stylish bootstrap theme suitable for small types of businesses such as beauty hair salons, massage center and many others. The template is fully responsive and mobile ready. It has the ability to function faultlessly on all types of browsers and modern devices and adapts suitably on small, big or wide screen resolutions.This template is built using latest Bootstrap framework with html5 and css3 which is very easy to customise. Download for free.  
-Key features
--------------
-Twitter Bootstrap 3.3.1
-Clean & Developer-friendly HTML5 and CSS3 code
-100% Responsive Layout Design
-One Page
-Multipurpose theme
-Google Fonts Support
-Font Awesome 
-Smooth Scrolling 
-Fully Customizable
-Contact Form
+Note:
+====
+
+Responsive, Bootstrap Mobile First Web Template 
+Author URI: http://webthemez.com/
+
+B-School is a Educational Responsive web design template with a modern style theme from webthemez. This template can be used for multipurpose, Educational Institutes, Collage's, Schools, Training Institutes and many more. This theme is easy to customize as per you requirements and this is developed on latest technologies like HTML5, Bootstrap 3.3.1. This is fully Responsive web site.  
+ 
+
+Credits
+=======
+Framework  http://getbootstrap.com
+Images	(http://unsplash.com - CC0 licensed) and used form (google.com)
+http://www.track2realty.com/
 
 
-Credits :
--------
-=> Design and developed: "WebThemez"  http://webthemez.com
-=> Photos used in template: **Unsplash** - http://unsplash.com, http://risewall.com/home-business-team-wallpapers.html
-=> For more free web themes: http://webthemez.com
-=> Framework : http://getbootstrap.com
-
-Important Note:
----------------
-To remove backlink from the template, you need to donate to remove the backlink from the template.
-Any question contact us: webthemez@gmail.com
+Icons	Font Awesome (http://fortawesome.github.com/Font-Awesome/)
+Other	html5shiv.js (@afarkas @jdalton @jon_neal @rem)
 
 
-License :
--------
-**Creative Commons Attribution 3.0** - http://creativecommons.org/licenses/by/3.0/
-
-- You are allowed to use all files for both personal and commercial projects.
-
-- If you use/modify the resources in your projects,we’d appreciate a linkback to this site.
-
-- You do not have rights to redistribute,resell or offer files from this site to any third party
-
-- If you wish to remove backlink from the template, you need to donate min USD $10 to remove backlink (credits) form the template
-
-- If you have any question,feel free to contact us at webthemez@gmail.com
-
-- All images user here is for demo purpose only, we are not responsible for any copyrights.
+Note: All the images used in this template is for demo use only, we are not responsible for any copyrights issue.	
